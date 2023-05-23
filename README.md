@@ -7,8 +7,7 @@
 - View composition
 - Custom modifiers
 - Custom containers
-<img width="412" alt="image" src="https://github.com/minarsedhom/SwiftUITraining/assets/134082704/c02f312b-2335-490c-9346-c6e97417ef5b">
-
+<img width="297" alt="image" src="https://github.com/minarsedhom/SwiftUITraining/assets/134082704/f3261cb6-feb6-4b5e-a020-92777ad177bf">
 **VHZstacks:**
 
 <img width="343" alt="image" src="https://github.com/minarsedhom/SwiftUITraining/assets/134082704/99585eca-1509-4159-8f17-51db50a16c2c">

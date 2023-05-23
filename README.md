@@ -7,7 +7,6 @@
 - View composition
 - Custom modifiers
 - Custom containers
-- 
 <img width="297" alt="image" src="https://github.com/minarsedhom/SwiftUITraining/assets/134082704/f3261cb6-feb6-4b5e-a020-92777ad177bf">
 
 

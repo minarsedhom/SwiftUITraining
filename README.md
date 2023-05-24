@@ -26,3 +26,9 @@
 
 https://github.com/minarsedhom/SwiftUITraining/assets/134082704/befa7923-f8c7-4a8d-b2ad-47a97cd1c4d8
 
+**EnvironmentObjectExample**
+It Covers:
+- @State and @Binding for sharing data between value types (Views - Structs)
+- @ObservedObject or @EnvironmentObject, both of which are designed for reference types to be shared across potentially many views.
+
+

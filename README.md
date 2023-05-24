@@ -31,4 +31,8 @@ It Covers:
 - @State and @Binding for sharing data between value types (Views - Structs)
 - @ObservedObject or @EnvironmentObject, both of which are designed for reference types to be shared across potentially many views.
 
-
+**AsyncAwaitSwiftUI**
+It Covers:
+- URLsession "async" function
+- Using async/await to handle network request
+- Using AsyncImage(url:

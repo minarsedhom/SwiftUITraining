@@ -45,3 +45,17 @@ It Covers:
 - Learn to write asynchronous UI tests.
 - Test a custom ButtonStyle.
 - Learn to control the search direction when finding UI elements.
+
+
+**SwiftUnitTesting**
+- Use Xcode’s Test navigator to test an app’s model and asynchronous methods
+- Fake interactions with library or system objects by using stubs and mocks
+- Test UI and performance
+
+Notes:
+The acronym FIRST describes a concise set of criteria for effective unit tests. Those criteria are:
+Fast: Tests should run quickly.
+Independent/Isolated: Tests shouldn’t share state with each other.
+Repeatable: You should obtain the same results every time you run a test. External data providers or concurrency issues could cause intermittent failures.
+Self-validating: Tests should be fully automated. The output should be either “pass” or “fail”, rather than relying on a programmer’s interpretation of a log file.
+Timely: Ideally, you should write your tests before writing the production code they test. This is known as test-driven development.

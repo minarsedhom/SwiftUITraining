@@ -37,3 +37,11 @@ It Covers:
 - URLsession "async" function
 - Using async/await to handle network request
 - Using AsyncImage(url:
+
+
+**ViewInspectorForTestingSwiftUIViews2**
+- Install ViewInspector as a Swift Package.
+- Use ViewInspector to write your first UI tests.
+- Learn to write asynchronous UI tests.
+- Test a custom ButtonStyle.
+- Learn to control the search direction when finding UI elements.

@@ -52,7 +52,7 @@ It Covers:
 - Fake interactions with library or system objects by using stubs and mocks
 - Test UI and performance
 
-*Notes:*
+**- *Notes:* -**
 The acronym FIRST describes a concise set of criteria for effective unit tests. Those criteria are:
 Fast: Tests should run quickly.
 Independent/Isolated: Tests shouldn’t share state with each other.
